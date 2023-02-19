@@ -1,3 +1,4 @@
 my mail is husseinmothar31@gmail.com
 name: hussein
 phone: 01099141905
+faculty: pharmacy
